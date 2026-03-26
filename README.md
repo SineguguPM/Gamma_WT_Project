@@ -1,6 +1,6 @@
 ## Final Project Summary & Deliverables
 
-**Project Title:** EcoShop AI – Sustainable Shopping Optimizer  
+**Project Title:** : Customer Analysis  
 **SDG Alignment:** SDG 12 – Responsible Consumption and Production  
 
 ### Key Achievements
@@ -23,6 +23,7 @@ Grok (built by xAI) served as the AI coding assistant throughout the project:
 - Interactive dashboard ready for live demo.
 - PowerPoint presentation prepared with visuals and AI explanation.
 
-**Team:** Becklyn (Solo) – All tasks: data loading, cleaning, EDA, feature engineering, AI modeling, documentation, and dashboard.
+**Team:** •	Bessy: Data processing, EDA, AI modelling, GitHub managing.
+          •	Sinegugu: All documentation, Pivot Tables and Charts, Dashboard creation, PPT Presentation
 
 This project demonstrates how data + AI can drive more responsible consumer behavior in retail environments.
